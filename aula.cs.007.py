@@ -1,5 +1,5 @@
 print (" bom dia ")
-# calcule o lados do triangolo
+# calcule o lados do piramide
 a = float(input('escreva o tamanho do primeira lado '))
 b = float(input('escreva o tamanho do segundo lado '))
 c = float(input('escreva o tamano do terceiro lado '))
@@ -14,4 +14,3 @@ elif (a == b) or (a == c) or (b == c):
    print ("isosceles")
 else:
    print ("escaleno")
-   
